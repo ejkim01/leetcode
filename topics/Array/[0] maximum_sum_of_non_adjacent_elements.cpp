@@ -1,3 +1,5 @@
+// This question is not in Leetcode, but it's a variant of "House Robber"
+
 /*
 Examples :
 Input : arr[] = {5, 5, 10, 100, 10, 5}
